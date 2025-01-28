@@ -49,8 +49,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #cfcfcf;
-    color: #000000; 
+    background-color: #fc981e;
+    color: #ffffff; 
 }
 
 main {
@@ -66,6 +66,7 @@ main {
     text-align: center;
     background-color: #c0fea3;
     border-radius: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .banner {
@@ -79,7 +80,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
-    text-align: justify;
+    text-align: left;
     font-size: 16px;
 }
 
