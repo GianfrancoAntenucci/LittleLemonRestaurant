@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #d0ffbb; /* Navbar color */
+    background-color: #d0ffbb;
     padding: 20px;
     text-align: center;
 }
@@ -17,16 +17,16 @@ header {
 .logo {
     /* font-size: 30px; */
     font-weight: bold;
-    color: #fff; /* Logo color */
+    color: #fff;
 }
 
 .logo img {
-    width: 400px; /* Adjust the size of the header logo */
+    width: 400px;
     height: auto;
 }
 
 nav {
-    background-color: #fefa75; /* Background color for the entire navbar */
+    background-color: #fefa75;
     padding: 1px;
     border-radius: 15px;
     font-size: large;
